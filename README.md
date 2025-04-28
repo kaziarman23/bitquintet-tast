@@ -7,18 +7,26 @@ I used **Bootstrap 5** for layout and responsiveness, along with **custom CSS** 
 
 The focus was on writing clean, semantic HTML5 and CSS3, ensuring full responsiveness across desktop, tablet, and mobile devices.
 
+## Live Demo
+
+The project is also hosted online.  
+You can view it here: [Live Website Link](https://kaziarman23.github.io/bitquintet-tast)
+
 ## Screenshots
 
 ### Desktop View
+
 ![Desktop Screenshot](screenshots/desktop.png)
 
 ### Tablet View
+
 ![Tablet Screenshot](screenshots/tablet.png)
 
 ### Mobile View
+
 ![Mobile Screenshot](screenshots/mobile.png)
 
-*(Note: Please view the `/screenshots` folder for full-size images.)*
+_(Note: Please view the `/screenshots` folder for full-size images.)_
 
 ## Technologies Used
 
@@ -30,7 +38,7 @@ The focus was on writing clean, semantic HTML5 and CSS3, ensuring full responsiv
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/kaziarman23/bitquintet-tast.git
    ```
 2. Open the `index.html` file directly in your browser.
 
@@ -48,17 +56,16 @@ No additional installation or setup is required.
 ```
 /project-root
 │
-├── /css
-│   └── style.css
-│
-├── /images
+├── /public
 │   └── (Assets used in the page)
 │
 ├── /screenshots
 │   └── desktop.png
+│   └── tablet.png
 │   └── mobile.png
 │
 ├── index.html
+├── style.css
 └── README.md
 ```
 
@@ -69,4 +76,4 @@ The page was tested across different screen sizes to ensure responsiveness and a
 
 ---
 
-✅ *Project completed by Kazi Arman Nihad*✨
+✅ *Project completed by [Kazi Arman](https://github.com/kaziarman23)*✨
