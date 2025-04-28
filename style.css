@@ -107,6 +107,8 @@ body {
   padding: 5px;
   width: fit-content;
   margin: auto;
+  display: flex;
+  gap: 4px;
 }
 
 .toggle-button {
