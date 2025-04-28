@@ -1,4 +1,4 @@
-# Frontend Development Task
+# Bitquintet Frontend Development Task
 
 ## Overview
 
