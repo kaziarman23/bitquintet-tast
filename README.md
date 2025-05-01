@@ -10,7 +10,7 @@ The focus was on writing clean, semantic HTML5 and CSS3, ensuring full responsiv
 ## Live Demo
 
 The project is also hosted online.  
-You can view it here: [Live Website Link](https://kaziarman23.github.io/bitquintet-tast)
+You can view it here: [Live Website Link](https://kaziarman23.github.io/bitquintet-task)
 
 ## Screenshots
 
